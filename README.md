@@ -1,3 +1,5 @@
-# react-c4jumn
+# Домашнее задание "Работа с формами. Учёт тренировок"
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-c4jumn)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+[View on StackBlitz ⚡️](https://stackblitz.com/edit/react-c4jumn)
