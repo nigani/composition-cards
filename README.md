@@ -1,4 +1,4 @@
-# Домашнее задание "Работа с формами. Учёт тренировок"
+# Домашнее задание "Композиция компонентов. Карточки"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
